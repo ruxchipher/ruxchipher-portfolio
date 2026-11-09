@@ -407,7 +407,7 @@
         line(["y", "2027 "], " goal: purple team internship");
       },
       contact() {
-        line("github    ", ["c", "github.com/Siddique-12300983", "https://github.com/Siddique-12300983"]);
+        line("github    ", ["c", "github.com/ruxchipher", "https://github.com/ruxchipher"]);
         line("linkedin  ", ["c", "linkedin.com/in/siddiqueabu", "https://www.linkedin.com/in/siddiqueabu/"]);
         if (EMAIL) line("email     ", ["c", EMAIL, "mailto:" + EMAIL]);
       },
